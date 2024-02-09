@@ -26,7 +26,7 @@ SECRET_KEY = 'p@ei#69*b*zz3u4yie-$()@cy^l(+x9&@6ypx+r0lm(3%_9hr7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['butiken-06ce6c10ccf3.herokuapp.com', '8000-elinaboman-butiken2-iy6s0lx0435.ws-eu108.gitpod.io']
+ALLOWED_HOSTS = ['butiken-06ce6c10ccf3.herokuapp.com', 'localhost']
 
 
 # Application definition
